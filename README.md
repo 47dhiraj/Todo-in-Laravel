@@ -1,2 +1,2 @@
 # Todo-in-Laravel
-Simple Todo list system in Laravel using Resource Controller
+Simple Todo App in Laravel using Resource Controller
